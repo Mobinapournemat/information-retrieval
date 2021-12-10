@@ -8,8 +8,16 @@
 * Remove Stop-words
 * Positional index
 * Dynamic Positional Index
+  * Add new document to index
+  * Remove documents from index 
 * Compression & Decompression of Positional Index 
+  * Gamma Code
+  * Variable Byte Code 
 * Spell Correction
+  * Bigram index (Jaccard and edit-distance measurements) 
 * Query Search
+  * Query Spell Correction
+  * Scoring (lnn-ltn)
+  * Highlight important parts 
 * Evaluation
 
