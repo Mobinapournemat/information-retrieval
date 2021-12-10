@@ -20,4 +20,9 @@
   * Scoring (lnn-ltn)
   * Highlight important parts 
 * Evaluation
-
+  * Precision
+  * Recall
+  * F1-Score
+  * MAP-Score
+  * NDCG-Score
+  
