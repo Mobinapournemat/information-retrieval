@@ -36,4 +36,5 @@
   * Evaluation
 * Clustering
   * Gaussian Mixture Model (GMM)
+  * Hierarchical Model
   * 
