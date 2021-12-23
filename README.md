@@ -29,4 +29,9 @@
 ## Phase2
 * Preprocessing
 * Classification
+  * KNN
+  * Naive Bayes
+  * Neural Networks
+  * SVM
+  * Evaluation
 * Clustering
