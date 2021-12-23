@@ -27,4 +27,6 @@
   * NDCG-Score
   
 ## Phase2
-* 
+* Preprocessing
+* Classification
+* Clustering
