@@ -35,3 +35,5 @@
   * SVM
   * Evaluation
 * Clustering
+  * Gaussian Mixture Model (GMM)
+  * 
