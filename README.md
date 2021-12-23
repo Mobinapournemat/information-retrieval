@@ -38,3 +38,4 @@
   * Gaussian Mixture Model (GMM)
   * Hierarchical
   * K-Means
+  * Evaluation
