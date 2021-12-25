@@ -39,3 +39,6 @@
   * Hierarchical
   * K-Means
   * Evaluation
+
+## Phase3
+
