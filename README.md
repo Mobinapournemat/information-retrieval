@@ -45,4 +45,5 @@
 * Page Rank
 * HITS Ranking
 * Recommender System
-  * Content-based
+  * Content Based
+  * Collaborative Filtering
