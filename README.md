@@ -44,3 +44,4 @@
 * Crawler
 * Page Rank
 * HITS Ranking
+* Recommender System
