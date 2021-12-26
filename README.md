@@ -45,3 +45,4 @@
 * Page Rank
 * HITS Ranking
 * Recommender System
+  * Content-based
