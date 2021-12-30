@@ -70,4 +70,5 @@ def get_authors_rank(path, number):
         print(map_author_rev[i]," => ", authority[i])
 
 
-#get_authors_rank('content.json', 25)
+
+get_authors_rank('content.json', 25)
