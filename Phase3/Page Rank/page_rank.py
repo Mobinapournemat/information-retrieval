@@ -46,7 +46,7 @@ def get_page_rank(read_path, alpha, write_path):
     print("Ranking results saved!")
 
 
-#get_page_rank('content.json', 0.1, 'CrawledPapers.json')
+get_page_rank('content.json', 0.1, 'CrawledPapers.json')
         
 
 
