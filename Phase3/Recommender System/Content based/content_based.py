@@ -4,6 +4,7 @@ from numpy import dot
 from numpy.linalg import norm
 import pandas as pd
 
+
 def content_based(x, v):
     for i in range(len(x)):
         if x[i] == '':
@@ -57,6 +58,8 @@ for i in range(len(papers)):
         v[i][temp] = 1
 
 
+        
+        
 content_based(data[148], v)
 
 
