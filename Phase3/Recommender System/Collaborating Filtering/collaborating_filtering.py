@@ -4,6 +4,8 @@ from numpy.linalg import norm
 import pandas as pd
 import json
 
+
+
 def collab_filtering(x, n):
     with open('data.csv', 'r') as file:
         reader = csv.reader(file)
